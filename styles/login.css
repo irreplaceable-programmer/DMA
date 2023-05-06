@@ -87,6 +87,9 @@ input {
   /* margin-left: 25rem;
     display: flex; */
 }
+.log{
+  color: #fff;
+}
 
 .name-input {
   display: flex;

@@ -94,6 +94,10 @@ input {
     display: flex;
     justify-content: space-between;
     margin-top: 1rem;
+    align-items: center;
+}
+.regy{
+  color: #fff;
 }
 .register {
   padding: 0.5rem 1.5rem;
